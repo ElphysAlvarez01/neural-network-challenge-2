@@ -4,7 +4,6 @@ Training a neural network model using Keras to predict two outputs: department a
 
 ## Project Summary
 This project involves creating, compiling, and training a neural network model using Keras to predict two outputs: department and attrition within a dataset. 
-The model is designed with two branches, one for each prediction task, and leverages shared layers to learn common features before branching into specialized layers.
 
 ## Requirements
 - Python 3.x
